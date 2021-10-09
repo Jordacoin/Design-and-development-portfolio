@@ -1,2 +1,2 @@
 # Design-and-development-portfolio
-This is the design and development portfolio that I created using html and css. There are some JavaScript and JQuery elements that I will be trying to work through in the upcoming future such as adding a burger menu to the mobile responsive versin of the code. Any feedback would be much appreciated.
+This is the design and development portfolio that I created using html and css. There are some JavaScript and JQuery elements that I will be trying to work through in the upcoming future such as adding a burger menu to the mobile responsive version of the code. Hopefully this is step in the right direction for me as I try to obtain an entry level developer position or internship. Any feedback would be much appreciated.
